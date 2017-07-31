@@ -1,2 +1,4 @@
 Hello Team EDI!
 This is the intro to Git!
+
+Changes made locally. 
