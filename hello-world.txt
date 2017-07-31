@@ -2,3 +2,4 @@ Hello Team EDI!
 This is the intro to Git!
 
 Changes made locally. 
+This change was made on Github!
